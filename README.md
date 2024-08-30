@@ -8,7 +8,5 @@ Simple Module to Add All Installed Apps in XOS XClone List
 
 
 ### Credit
-```
 [CorePatch](https://github.com/LSPosed/CorePatch)
 [LSPosed Hook Framework](https://github.com/LSPosed/LSPosed)
-```
